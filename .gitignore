@@ -27,7 +27,6 @@ access-logs
 /logs/
 /mail/
 /php/
-/public/
 /ssl/
 /tmp/
 /whm_config/
